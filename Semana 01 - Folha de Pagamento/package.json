@@ -1,0 +1,15 @@
+{
+  "name": "semana-01---folha-de-pagamento",
+  "version": "1.0.0",
+  "description": "exercicio semana 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "frankberwald",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
